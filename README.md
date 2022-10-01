@@ -5,7 +5,7 @@
             sports, computer science and programming
             
 - 🌱 I’m currently learning:
-            html, css, js, php, c++
+            html, css, js, ts, c++, c#, .NET
             
 - 💞️ I’m looking to collaborate on:
             nothing for now
