@@ -10,8 +10,8 @@
 - 💞️ I’m looking to collaborate on:
             nothing for now
             
-- 📫 How to reach me:</br>
-            e-mail: g.m.rochowski@gmail.com</br>
+- 📫 How to reach me:<br>
+            e-mail: g.m.rochowski@gmail.com<br>
             linkedin.com/in/michał-grochowski-352670197
 
 <!---
