@@ -12,7 +12,7 @@
             
 - 📫 How to reach me:<br>
             <b>e-mail:</b> g.m.rochowski@gmail.com<br>
-            <b>LinkedIn:</b> <a href="linkedin.com/in/michał-grochowski-352670197">LinkedIn Link</a>
+            <b>LinkedIn:</b> <linkedin.com/in/michał-grochowski-352670197">
 
 <!---
 grochochotowski/grochochotowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
