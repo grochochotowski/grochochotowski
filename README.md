@@ -11,8 +11,8 @@
             nothing for now
             
 - 📫 How to reach me:<br>
-            e-mail: g.m.rochowski@gmail.com<br>
-            linkedin.com/in/michał-grochowski-352670197
+            <b>e-mail:</b> g.m.rochowski@gmail.com<br>
+            <b>LinkedIn:</b> linkedin.com/in/michał-grochowski-352670197
 
 <!---
 grochochotowski/grochochotowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
