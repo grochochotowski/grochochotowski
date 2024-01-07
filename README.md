@@ -11,7 +11,7 @@
             nothing for now
             
 - 📫 How to reach me:<br>
-            <b>Discord</b> grochochotowski 
+            <b>Discord</b> grochochotowski<br>
             <b>e-mail:</b> g.m.rochowski@gmail.com<br>
             <b>LinkedIn:</b> <https://www.linkedin.com/in/micha%C5%82-grochowski-352670197>
 
