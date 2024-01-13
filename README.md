@@ -8,7 +8,7 @@
             html, css, js, react, c#, .NET
             
 - 💞️ I’m looking to collaborate on:
-            nothing for now but I am looking for a job
+            nothing for now but I am looking for a job/internship 
             
 - 📫 How to reach me:<br>
             <b>Discord:</b> grochochotowski<br>
