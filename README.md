@@ -8,8 +8,9 @@ I build full-stack applications, data-processing workflows and AI-assisted syste
 
 - **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core and REST APIs
 - **Frontend:** React, JavaScript, HTML, CSS and Vite
-- **Data:** Python, SQL Server, relational data modelling and reporting workflows
-- **AI/ML:** intelligent automation, machine-learning algorithms and autonomous agent systems
+- **Data:** SQL Server, relational data modelling, reporting and data-processing workflows
+- **Machine learning:** Python, supervised learning, neural networks, optimization, reinforcement learning and model evaluation
+- **AI engineering:** LLM APIs, agent workflows, structured prompting, tool integration, retrieval and evaluation
 - **Engineering:** Git, automated testing, JWT authentication and Swagger / OpenAPI
 
 ## Projects
