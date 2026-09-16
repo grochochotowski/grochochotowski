@@ -1,32 +1,17 @@
 # Michał Grochowski
 
-Software engineer focused on **.NET**, full-stack applications, data-driven systems and applied artificial intelligence.
+Software engineer working with **.NET, React, data systems and applied AI/ML**.
 
-I build practical software with clear business workflows, maintainable APIs and reliable data handling. My recent work includes an engineering thesis covering point-of-sale and warehouse operations, full-stack management applications, and implementations of machine-learning and computer-graphics algorithms.
+I build full-stack applications, data-processing workflows and AI-assisted systems, with a growing interest in autonomous agents and secure software development.
 
-## Technical focus
+**Main stack:** C#, ASP.NET Core, Entity Framework Core, React, JavaScript, Python, SQL Server and Git.
 
-- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, REST APIs, JWT authentication
-- **Frontend:** React, JavaScript, HTML, CSS, Vite, WPF and XAML
-- **Data:** SQL, SQL Server, relational data modelling, reporting and data-processing workflows
-- **AI and algorithms:** Python, optimization, decision trees, neural networks, reinforcement learning and Bayesian networks
-- **Engineering:** Git, automated testing, Swagger / OpenAPI and layered application architecture
+## Projects
 
-## Selected projects
-
-| Project | Highlights |
-| --- | --- |
-| [Engineering Thesis — Shop and Warehouse Management System](https://github.com/grochochotowski/EngineeringThesis-ShopSystem) | Full-stack React and ASP.NET Core system for point-of-sale, inventory, shipments, reporting and role-based workflows. |
-| [Food Orders App](https://github.com/grochochotowski/FoodOrdersApp) | React and ASP.NET Core application for organizations, restaurants, shared carts and order management. |
-| [StocktakingIT](https://github.com/grochochotowski/StocktakingIT) | Team-developed inventory and stocktaking platform with JWT authorization, SQL Server and Excel export. |
-| [Introduction to Artificial Intelligence](https://github.com/grochochotowski/103A-INxxx-ISP-WSI) | Python implementations of optimization, evolutionary algorithms, minimax, decision trees, neural networks, Q-learning and Bayesian networks. |
-| [Computer Graphics](https://github.com/grochochotowski/ComputerGraphic) | C# and WPF implementations of image processing, colour models, rasterization, Bézier curves and 2D transformations. |
-
-## Currently interested in
-
-Opportunities involving software engineering, .NET/backend development, data engineering or applied AI/ML. I am also interested in secure software development and cybersecurity.
+- [Shop and Warehouse Management System](https://github.com/grochochotowski/EngineeringThesis-ShopSystem) — point-of-sale, inventory, shipments and reporting with React and ASP.NET Core.
+- [Food Orders App](https://github.com/grochochotowski/FoodOrdersApp) — shared restaurant ordering built with React, ASP.NET Core and SQL Server.
+- [StocktakingIT](https://github.com/grochochotowski/StocktakingIT) — team-developed inventory and stocktaking management platform.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/grochochotowski)
-- [Email](mailto:g.m.rochowski@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/grochochotowski) · [Email](mailto:g.m.rochowski@gmail.com)
